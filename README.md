@@ -8,7 +8,7 @@ It shows my approach to **Phase 1 (scraping), Phase 2 (DB loading & lineage), an
 ## What’s included
 - `phase1_scraping.py` — Generic, table-agnostic scraping & normalization (with DRY_RUN stubs).
 - `phase2_load.py` — Postgres loading strategy + audit trail/lineage notes.
-- `Home Exercise.docx` — The original prompt/notes for reference.
+- `Home Exercise.pdf` — The original prompt/notes for reference.
 
 ## How to review
 Read the code and inline comments. The focus is **design**, not execution.  
